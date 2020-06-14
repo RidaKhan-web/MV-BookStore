@@ -21,7 +21,7 @@ PyMessager==1.0.1
 pymessenger==0.0.7.0
 python-dateutil==2.8.1
 rauth==0.7.3
-requests==2.18.3
+requests==2.20.0
 requests-toolbelt==0.9.1
 six==1.15.0
 soupsieve==2.0.1
