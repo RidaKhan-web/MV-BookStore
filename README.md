@@ -16,7 +16,7 @@ STEPS TO RUN THE PROJECT: (FOR WINDOWS)
                	pip install -r requirements.txt
 
 - OPEN FILE "tokens.py" AND EDIT TOKEN VARIABLES.
-- RUN following command in BASH:
+- Run following command in BASH:
 
                 python app.py
 
